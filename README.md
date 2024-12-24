@@ -6,7 +6,7 @@ Movaclock is a clock installation inspired by the Chinese Movable-type system. U
 
 
 ## Slides / About Movaclock 
-https://github.com/janetckm/movaclock/blob/main/powerpoint/movaclock_slides_EN.pdf
+[https://github.com/janetckm/movaclock/blob/main/powerpoint/movaclock_slides_EN.pdf](https://github.com/janetckm/movaclock/blob/9e4041c35f7cdca07a0c9aedfe9599291e075717/powerpoint/movaclock_slides_EN.pdf)
 
 ## Video Demonstration / User Guide
 https://youtu.be/eYBHK9oxsUM
