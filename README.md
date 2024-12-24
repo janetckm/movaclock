@@ -4,6 +4,8 @@
 ## Project Description
 Movaclock is a clock installation inspired by the Chinese Movable-type system. Using 3D-printed models and mechanisms, Movaclock provides a tangible experience in the RBM Makerspace for time interface and cultural inheritance.
 
-## Video Demonstration
+## Video Demonstration / User Guide
 https://youtu.be/eYBHK9oxsUM
 
+## Slides
+https://github.com/janetckm/movaclock/blob/main/powerpoint/movaclock_slides_EN.pdf
