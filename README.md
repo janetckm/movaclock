@@ -10,3 +10,7 @@ Movaclock is a clock installation inspired by the Chinese Movable-type system. U
 
 ## Video Demonstration / User Guide
 https://youtu.be/eYBHK9oxsUM
+
+## Awards
+Second Prize, Red Bird Makerspace Model Maker Compeition, Hong Kong University of Science and Technology (Guangzhou), China <br>
+Second Prize, Tsinghua University 3D Competition, Tsinghua University, China
