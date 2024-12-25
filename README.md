@@ -1,4 +1,4 @@
-# Movaclock
+# Movaclock： Clock with Movable Type
 ![Project GIF](https://github.com/janetckm/janetckm.github.io/blob/efb3ab5e4aa43636325bbee032f5282108ceb97e/assets/img/works_movaclock.gif)
 
 ## Project Description
